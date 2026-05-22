@@ -2,7 +2,7 @@
 
 A modern, responsive, and high-performance developer portfolio website built using React, TypeScript, Vite, Tailwind CSS, and integrated with Supabase.
 
-🌐 **Live Demo:** [portfolio-inky-iota-d31oj1elpe.vercel.app](https://vercel.app)
+🌐 **Live Demo:** [Pavankumarmajjivercel.app](https://vercel.app)
 
 ---
 
